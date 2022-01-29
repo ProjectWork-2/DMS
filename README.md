@@ -31,7 +31,6 @@ SHRIKAR SWAROOP R
 
 
 About the Project
-Finite State Machines are an integral part of computer science and are used in many state- driven problem solving.
 
 In this Project we have developed a programmable finite state machine library using which an application can initiate
 a specific FSM object and use it for FSM based problem solving like pattern matching, validation or computation.
