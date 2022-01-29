@@ -33,9 +33,9 @@ Finite State Machines are an integral part of computer science and are used in m
 In this Project we have developed a programmable finite state machine library using which an application can initiate
 a specific FSM object and use it for FSM based problem solving like pattern matching, validation or computation.
 This program is designed to simulate the working of a FSM with the help of C programming constructs.
-This project consists of a working and functional C-Library which contains the structures and application programming interface
-required to execute any finite state machine, and three application c programs to validate the input
-and provide appropriate output.
+This project consists of a working and functional C-Library which contains the structures and application 
+programming interface required to execute any finite state machine, and three application c programs 
+to validate the input and provide appropriate output.
 
 
 
